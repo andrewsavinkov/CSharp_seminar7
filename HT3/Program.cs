@@ -26,6 +26,7 @@ void PrintMatrix (int[,] inputMatrix)
         Console.WriteLine();
     }
 }
+
 double Average(int[] inputArray)
 {
     double sum = 0;
